@@ -2,7 +2,7 @@
 title: 'Spot'
 subtitle: 'Använder du också google för att hinna nya platser att träna på?'
 date: '2015-08-01T22:12:03.284Z'
-image: 'spot.png'
+image: '/img/spot.png'
 ---
 
 <div class="label-container">
