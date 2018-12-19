@@ -11,13 +11,18 @@ collections:
     create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
+      - {
+          label: 'Subtitle',
+          required: false,
+          name: 'subtitle',
+          widget: 'string',
+        }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: Image, name: image, widget: image }
+      - { label: Image, required: false, name: image, widget: image }
       - {
           label: 'Description',
           required: false,
           name: 'description',
           widget: 'text',
         }
-      - { name: Body, label: body, widget: markdown }
+      - { name: Body, required: false, label: body, widget: markdown }
