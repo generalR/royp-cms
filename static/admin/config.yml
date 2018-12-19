@@ -2,7 +2,7 @@ backend:
   name: github
   repo: generalR/royp-cms
 
-media_folder: static/img
+media_folder: 'content/blog'
 
 collections:
   - name: blog
