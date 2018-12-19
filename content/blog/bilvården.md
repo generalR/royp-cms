@@ -2,7 +2,7 @@
 title: 'Bilvården'
 subtitle: 'Priming i kombination med användartester'
 date: '2017-05-01'
-image: '/img/bilvarden.png'
+image: bilvarden.png
 ---
 
 <div class="label-container">

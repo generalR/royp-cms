@@ -2,7 +2,7 @@
 title: 'Design Things and Design Thinking'
 subtitle: 'Contemporary Participatory Design Challenges'
 date: '2015-06-01T22:12:03.284Z'
-image: '/imglamp.jpg'
+image: dump.png
 ---
 
 ### Q1:Research question(s) or purpose(s) in relation to what research area or phenomenon?
